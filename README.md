@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vbvasu
-- 👀 I’m interested in Coding 
+- 👀 I’m interested in Programming,Networking,Technical Stuff 
 - 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on coding 
+- 💞️ I’m looking to collaborate on Programming Techniques 
 - 📫 How to reach me ...
 https://www.linkedin.com/in/vbvasu-3017rv
 <!---
