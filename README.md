@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VB VASU</h1>
-<h3 align="center">A passionate Programmer from India and an ECE undergrad from NHCE Bengaluru.</h3>
+<h3 align="center">A passionate techie from India and an ECE undergrad from NHCE Bengaluru.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbvasu&label=Profile%20views&color=0e75b6&style=flat" alt="vbvasu" /> </p>
 
