@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm VB VASU</h1>
-<h3 align="center">A passionate Programmer from India and a Final year ECE undergrad at NHCE Bengaluru.</h3>
+<h3 align="center">A passionate Programmer from India and an ECE undergrad from NHCE Bengaluru.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbvasu&label=Profile%20views&color=0e75b6&style=flat" alt="vbvasu" /> </p>
 
-- 👀 I’m interested in **Programming, Networking, Technical Stuff...**
+- 👀 I’m interested in **Cloud@ AWS/Azure, Git, Terraform, Docker, Programming, Networking, Technical Stuff...**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **DevOps Tools**
 
-- 👯 I’m looking to collaborate on **Programming**
+- 👯 I’m looking to collaborate on **Cloud Infra and Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vbvasu?tab=repositories](https://github.com/vbvasu?tab=repositories)
 
