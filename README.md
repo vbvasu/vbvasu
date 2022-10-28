@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbvasu&label=Profile%20views&color=0e75b6&style=flat" alt="vbvasu" /> </p>
 
-- 👀 I’m interested in **Cloud@ AWS/Azure, Git, Terraform, Docker, Programming, Networking, Technical Stuff...**
+- 👀 I’m interested in **Linux, Cloud@ AWS/Azure, Git, Terraform, Docker, Jenkins, Kubernetes, Programming, Networking, Technical Stuff...**
 
 - 🌱 I’m currently learning **DevOps Tools**
 
-- 👯 I’m looking to collaborate on **Cloud Infra and Programming**
+- 👯 I’m looking to collaborate on **Cloud Infra and DevOps, Programming**
 
 - 👨‍💻 All of my projects are available at [https://github.com/vbvasu?tab=repositories](https://github.com/vbvasu?tab=repositories)
 
